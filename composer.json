@@ -1,0 +1,15 @@
+{
+    "name": "wamobi14/poo",
+    "authors": [
+        {
+            "name": "Alexis",
+            "email": "alex@hotmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+    	"psr-4":{
+    		"": "src/"
+    	}
+    }
+}
